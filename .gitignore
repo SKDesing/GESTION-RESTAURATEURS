@@ -1,4 +1,16 @@
-GESTION DE RESTAURANT CAP VERDIEN PORTUGAIS ET BRESILIEN/
+venv/
+clean_env/
+node_modules/
+*.so
+*.dll
+*.dylib
+*.pyc
+__pycache__/
+*.sql
+*.dump
+*.json
+.env
+backups/GESTION DE RESTAURANT CAP VERDIEN PORTUGAIS ET BRESILIEN/
 clean_env/
 venv/
 capacitator-tablet/clean_env/
